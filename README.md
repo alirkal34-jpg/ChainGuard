@@ -19,6 +19,8 @@
 ## 📖 Overview
 
 **ChainGuard** is an advanced security tool designed to protect Python projects from **software supply chain attacks**. Built as a comprehensive security scanner, it detects malicious packages, typosquatting attempts, and vulnerable dependencies through multi-layered analysis combining CVE databases, static analysis, dynamic behavior monitoring, and threat intelligence.
+<img width="1053" height="677" alt="Ekran görüntüsü 2026-02-04 200509" src="https://github.com/user-attachments/assets/37dbfc51-04d1-49eb-8efb-e6fe8b384710" />
+
 
 ### 🎯 The Problem
 
